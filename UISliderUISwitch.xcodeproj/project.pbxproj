@@ -20,6 +20,7 @@
 		E22C07ED1EE7A1E800233E2A /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = E22C07E51EE7A1E800233E2A /* play.png */; };
 		E22C07EE1EE7A1E800233E2A /* thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = E22C07E61EE7A1E800233E2A /* thumb.png */; };
 		E22C07EF1EE7A1E800233E2A /* thumbHightLight.png in Resources */ = {isa = PBXBuildFile; fileRef = E22C07E71EE7A1E800233E2A /* thumbHightLight.png */; };
+		E291DD311EE95BF5007F6BCE /* nnca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E291DD301EE95BF5007F6BCE /* nnca.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		E22C07E51EE7A1E800233E2A /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
 		E22C07E61EE7A1E800233E2A /* thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb.png; sourceTree = "<group>"; };
 		E22C07E71EE7A1E800233E2A /* thumbHightLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbHightLight.png; sourceTree = "<group>"; };
+		E291DD301EE95BF5007F6BCE /* nnca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = nnca.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				E22C07E31EE7A1E800233E2A /* music.mp3 */,
 				E22C07E41EE7A1E800233E2A /* pause.png */,
 				E22C07E51EE7A1E800233E2A /* play.png */,
+				E291DD301EE95BF5007F6BCE /* nnca.mp3 */,
 				E22C07E61EE7A1E800233E2A /* thumb.png */,
 				E22C07E71EE7A1E800233E2A /* thumbHightLight.png */,
 			);
@@ -157,6 +160,7 @@
 			files = (
 				E22C07EE1EE7A1E800233E2A /* thumb.png in Resources */,
 				E22C07D81EE7A16E00233E2A /* LaunchScreen.storyboard in Resources */,
+				E291DD311EE95BF5007F6BCE /* nnca.mp3 in Resources */,
 				E22C07E81EE7A1E800233E2A /* duration.png in Resources */,
 				E22C07ED1EE7A1E800233E2A /* play.png in Resources */,
 				E22C07EC1EE7A1E800233E2A /* pause.png in Resources */,
@@ -341,6 +345,7 @@
 				E22C07DE1EE7A16E00233E2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
